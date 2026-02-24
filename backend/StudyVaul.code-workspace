@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "StudyVault",
+			"path": ".."
+		},
+		{
+			"name": "frontend",
+			"path": "../../../../../Student_hub/Findpdf/frontend"
+		}
+	],
+	"settings": {}
+}
